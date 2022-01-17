@@ -1,0 +1,235 @@
+<?PHP
+// {made by Renato Ribeiro}
+
+$main_content .= '<table border="0" cellspacing="1" cellpadding="3" width="100%"> 
+	<tr> 
+		<td colspan="2" class="titleForm"></td> 
+	</tr> 
+
+<center><b><h2>Para Domar a Mount pegue o Item de domar e use no animal<br> (com preferencia na life baixa para aumentar a chance de domar)</h2></b></center>
+
+	<tr> 
+</table> 
+
+<center><table cellpadding="10" cellspacing="1"><tr><td width="50px" colspan="5" bgcolor="#555555"><font color="white" size="5"><center><b>Montarias</b></center></font></td></tr><tr><td width="50px" bgcolor="#F1E0C6"><b>Mount</b></td><td width="50px" bgcolor="#F1E0C6"><center><b>Onde Fica o Monstro</b></td><td width="50px" bgcolor="#F1E0C6"><center><b>Mapa Localizacao Monstro</b></center></td><td width="50px" bgcolor="#F1E0C6"><center><b>Item para domar</b></center></td><td width="50px" bgcolor="#F1E0C6"><center><b>Onde Pegar o Item</b></center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Rented_Horse.gif"</td><td width="160px" bgcolor="#D4C0A1"><center><img src="images/mounts/Rented_Horse_Thais.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Rented_Horse_Grey.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center>-</center><td width="250px" bgcolor="#D4C0A1"><center>Compradas no NPC Rashid </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Black_Sheep_(Mount).gif"</td><td width="50px" bgcolor="#D4C0A1"><center>Espalhadas pela cidade de Carlin</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/sheep.png"</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/reins.gif"</center><td width="350px" bgcolor="#D4C0A1"><center>Compradas no NPC Eremo<br>Loot: Dark Magicians</center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Tamed_Panda.gif"</td><td width="50px" bgcolor="#D4C0A1"><center>Espalhadas pela cidade de Storvik </center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/panda.png"</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/bambo.gif"</center><td width="250px" bgcolor="#D4C0A1"><center>Loot: Draken Abomination, <br> Draken Spellweaver</center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/War_Bear.gif"</td><td width="50px" bgcolor="#D4C0A1"><center>Espalhadas pela cidade de Ventera</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/bear.png"</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/sling.gif"</center><td width="250px" bgcolor="#D4C0A1"><center>Compradas no NPC Eremo <br> Loot: Hunter</center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Lady_Bug_(Mount).gif"</td><td width="50px" bgcolor="#D4C0A1"><center>Teleports Torvena <br>(Kollos)</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/lady.png"</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/dog.gif"</center><td width="250px" bgcolor="#D4C0A1"><center>Loot: Kollos, Spidris, Waspoid </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Tiger_Slug.gif"</td><td width="50px" bgcolor="#D4C0A1"><center>Teleports Torvena <br>(Spidris)</center></td><td width="50px" bgcolor="#D4C0A1"><center>-</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/drug.gif"</center><td width="250px" bgcolor="#D4C0A1"><center>Loot: Hydra</center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Dromedary_(Mount).gif"</td><td width="50px" bgcolor="#D4C0A1"><center>Espalhadas pela cidade de Namrah </center><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/drome.png"</center></td></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/stick.gif"</center><td width="250px" bgcolor="#D4C0A1"><center>Loot: Sandstone Scorpion</center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Donkey.gif"</td><td width="50px" bgcolor="#D4C0A1"><center>Ao nordeste do Vilarejo para Iniciantes </center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/burro.png"</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/apple.gif"</center><td width="250px" bgcolor="#D4C0A1"><center>Loot: Blair Witch</center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/War_Horse.gif"</td><td width="50px" bgcolor="#D4C0A1"><center>Espalhadas pelas cidades de Ventera e Carlin</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/horse.png"</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/sugar.gif"</center><td width="250px" bgcolor="#D4C0A1"><center>Loot: Ghazbaran </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Water_Buffalo_(Mount).gif"</td><td width="50px" bgcolor="#D4C0A1"><center>Saida leste de Ventera </center></td><td width="50px" bgcolor="#D4C0A1"><center> - </center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/leech.gif"</center><td width="250px" bgcolor="#D4C0A1"><center>Loot: Lost Husher </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Kingly_Deer.gif"</td><td width="50px" bgcolor="#D4C0A1"><center>Teleports Storvik (Myticals)</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/deer.png"</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/pina.gif"</center><td width="250px" bgcolor="#D4C0A1"><center>Troca NPC Roy <br>por 10 mytical flasks <br> (small flask of eyedrops)</center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Draptor_(Mount).gif"</td><td width="50px" bgcolor="#D4C0A1"><center>Teleports Ventera<br> (Draptors)</center></td><td width="50px" bgcolor="#D4C0A1"><center>-</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/dra.gif"</center><td width="250px" bgcolor="#D4C0A1"><center>Loot: Draken Spellweaver</center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Racing_Bird.gif"</td><td width="50px" bgcolor="#D4C0A1"><center>Teleports Paw Port (Kongras)</center></td><td width="50px" bgcolor="#D4C0A1"><center>-</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/carrot.gif"</center><td width="250px" bgcolor="#D4C0A1"><center> Camp Quest (Teleports Lizards) <br> Loot: Tiquandas Revenge, Carniphila </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Midnight_Panther_(Mount).gif"</td><td width="50px" bgcolor="#D4C0A1"><center>Teleports Paw Port <br>(Shaman Princess)</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/panther.png"</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/wip.gif"</center><td width="250px" bgcolor="#D4C0A1"><center>Loot: Shaman Princess (Paw Port)</center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Crystal_Wolf_(Mount).gif"</td><td width="50px" bgcolor="#D4C0A1"><center>Teleports Melrose<br> (Raging Mages)</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/wolf.png"</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/diap.gif"</center><td width="250px" bgcolor="#D4C0A1"><center>Loot: Raging Mage, Mad Mage</center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Scorpion_King.gif"</td><td width="50px" bgcolor="#D4C0A1"><center>Teleports Namrah<br> (Sandstone Scorpions)</center></td><td width="50px" bgcolor="#D4C0A1"><center>-</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/scor.gif"</center><td width="250px" bgcolor="#D4C0A1"><center>Loot: Guardian Lady (Namrah) </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Stampor_(Mount).gif"</td><td width="50px" bgcolor="#D4C0A1"><center>-</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/stam.png"</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Stampor_horn.gif"</center><td width="250px" bgcolor="#D4C0A1"><center>Trocada por itens no NPC Talaru<br>  Itens: 50 stampors horns <br>Localizacao: Norgor</center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Rapid_Boar.gif"</td><td width="50px" bgcolor="#D4C0A1"><center>Espalhadas ao norte de Carlin</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/boar.png"</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/horn.gif"</center><td width="250px" bgcolor="#D4C0A1"><center>Quest: Teleports Dragons de Ventera</center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Titanica.gif"</td><td width="50px" bgcolor="#D4C0A1"><center>Teleports Ventera<br> (Crustacea Gigantica)</center></td><td width="50px" bgcolor="#D4C0A1"><center>-</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/giant.gif"</center><td width="250px" bgcolor="#D4C0A1"><center>Loot: Thul, Quara Pincher, <br> Quara Predator, Sea Predator</center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Uniwheel.gif"</td><td width="50px" bgcolor="#D4C0A1"><center>Sudeste de Basco <img src="./images/crown.png"/><br> (Proximo NPC Helena)</center></td><td width="50px" bgcolor="#D4C0A1"><center> - </center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/oil.gif"</center><td width="250px" bgcolor="#D4C0A1"><center>Loot: Golden Servant</center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Tin_Lizzard.gif"</td><td width="50px" bgcolor="#D4C0A1"><center>Teleports Melrose<br> (War Golem)</center></td><td width="50px" bgcolor="#D4C0A1"><center>-</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/key.gif"</center><td width="250px" bgcolor="#D4C0A1"><center>Loot: War Golem </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Walker_(Mount).gif"</td><td width="50px" bgcolor="#D4C0A1"><center> Teleports Basco <img src="./images/crown.png"/><br> (Brimstone Bug) <br></center></td><td width="50px" bgcolor="#D4C0A1"><center>-</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Control_Unit.gif"</center><td width="250px" bgcolor="#D4C0A1"><center>Loot: Glooth Golem</center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Widow_Queen.gif"</td><td width="50px" bgcolor="#D4C0A1"><center>Teleports Ventera<br> (Wailing Widow)</center></td><td width="50px" bgcolor="#D4C0A1"><center>-</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/smeling.gif"</center><td width="250px" bgcolor="#D4C0A1"><center>Loot: Glifirion, The Old Widow, <br> Wailing Widow, Ungoliant</center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Gnarlhound_(Mount).gif"</td><td width="50px" bgcolor="#D4C0A1"><center>Teleports Carlin <br>(Furys)</center></td><td width="50px" bgcolor="#D4C0A1"><center>-</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/bone.gif"</center><td width="250px" bgcolor="#D4C0A1"><center>Quest: Teleports Torvena<br> (Draken Castle/Wayfarer Hat Quest)</center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Undead_Cavebear_(Mount).gif"</td><td width="50px" bgcolor="#D4C0A1"><center>Teleports Namrah<br> (Undead Cavebear)</center></td><td width="50px" bgcolor="#D4C0A1"><center>-</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/max.gif"</center><td width="250px" bgcolor="#D4C0A1"><center>Loot: Necrolord, Blood Necrolord, <br> Undead Cavebear, Undead Dragon</center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/ursagrodon.gif"</td><td width="50px" bgcolor="#D4C0A1"><center>Teleports Storvik<br> (Ursagrodon)</center></td><td width="50px" bgcolor="#D4C0A1"><center>-</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Melting_Horn.gif"</center><td width="250px" bgcolor="#D4C0A1"><center>Loot: Zoralurk </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Magma_Crawler_(Mount).gif"</td><td width="50px" bgcolor="#D4C0A1"><center>Quest Magma Mount</center></td><td width="50px" bgcolor="#D4C0A1"><center>-</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/glow.gif"</center><td width="250px" bgcolor="#D4C0A1"><center>Quest: Magma Mount Quest </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Iron_Blight_(Mount).gif"</td><td width="50px" bgcolor="#D4C0A1"><center>Quest Gnomes e Teleports Cliff Striders</center></td><td width="50px" bgcolor="#D4C0A1"><center>-</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/iron.gif"</center><td width="250px" bgcolor="#D4C0A1"><center>Loot: Ironcliff, Orewalker, <br> Ezerus, Tajerus </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Montaria02.gif"</td><td width="50px" bgcolor="#D4C0A1"><center>Teleports Namrah <Br>(Elder Lions)</center></td><td width="50px" bgcolor="#D4C0A1"><center>-</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/lions_heart.gif"</center><td width="250px" bgcolor="#D4C0A1"><center>Loot: Sight of Surrender, <br>Egipt Mummy</center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Shock_Head_(Mount).gif"</td><td width="50px" bgcolor="#D4C0A1"><center>Teleports Torvena <br> (Mini-Roshamuul)</center></td><td width="50px" bgcolor="#D4C0A1"><center>-</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Nightmare_Horn.gif"</center><td width="250px" bgcolor="#D4C0A1"><center>Loot: Gaz Haragoth </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/hellgrip.gif"</td><td width="50px" bgcolor="#D4C0A1"><center> Teleports Carlin <br> (Grim Reapers) </center></td><td width="50px" bgcolor="#D4C0A1"><center>-</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/nail_case.gif"</center><td width="250px" bgcolor="#D4C0A1"><center>Loot: Enslaved Dwarf, <bR> Necropharus</center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Stone_Rhino_(Mount).gif"</td><td width="50px" bgcolor="#D4C0A1"><center> Teleports Carlin <br> (Stone Rhinos) </center></td><td width="50px" bgcolor="#D4C0A1"><center>-</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Astral_Shaper_Rune.gif"</center><td width="250px" bgcolor="#D4C0A1"><center>Loot: The Time Guardian, Morgaroth </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Manta_Ray_(Mount).gif"</td><td width="50px" bgcolor="#D4C0A1"><center>Teleports Torvena <br>(Deepling Guards)</center></td><td width="50px" bgcolor="#D4C0A1"><center>-</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/soulnet.gif"</center><td width="250px" bgcolor="#D4C0A1"><center>Loot: Deeplings Monsters</center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Dragonling_(Mount).gif"</td><td width="50px" bgcolor="#D4C0A1"><center>Teleports Basco <img src="./images/crown.png"/><br> (Dragonlings)</center></td><td width="50px" bgcolor="#D4C0A1"><center>-</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/ribbon.gif"</center><td width="250px" bgcolor="#D4C0A1"><center>Loot: Deathstrike, Gnomevil, Abyssador</center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Mole_(Mount).gif"</td><td width="50px" bgcolor="#D4C0A1"><center> Tunnel Tyrant Cave <br> (Torvena) </center></td><td width="50px" bgcolor="#D4C0A1"><center> -- </center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Candle_Stump.gif"</center><td width="250px" bgcolor="#D4C0A1"><center> Loot: The Baron from Below <br> The Duke of the Depths <br> The Count Of The Core </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Flying_Book_(Mount).gif"</td><td width="50px" bgcolor="#D4C0A1"><center> Teleports Hogwarts (Storvik) </center></td><td width="50px" bgcolor="#D4C0A1"><center> -- </center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Library_Ticket.gif"</center><td width="250px" bgcolor="#D4C0A1"><center> Loot: Studants of Magic </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Hibernal_Moth_(Mount).gif"</td><td width="50px" bgcolor="#D4C0A1"><center> <img src="images/mounts/Purple_Tendril_Lantern.gif" </center></td><td width="50px" bgcolor="#D4C0A1"><center> <img src="images/mounts/Lacewing_Moth_(Mount).gif" </center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Turquoise_Tendril_Lantern.gif"</center><td width="250px" bgcolor="#D4C0A1"><center> Loot: Izcandar the Banished <br> (Winter Castle de Storvik) </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Gryphon_(Mount).gif"</td><td width="50px" bgcolor="#D4C0A1"><center> Norte de Namrah </center></td><td width="50px" bgcolor="#D4C0A1"><center> <img src="images/mounts/Gryphon.png" </center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/The_Regalia_of_Suon.gif"</center><td width="250px" bgcolor="#D4C0A1"><center> Loot: Scarlett Etzel <br> (Cobra Castle Boss) </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Jousting_Eagle.gif"</td><td width="50px" bgcolor="#D4C0A1"><center> Teleports Hogwarts (Storvik) </center></td><td width="50px" bgcolor="#D4C0A1"><center> -- </center></td><td width="50px" bgcolor="#D4C0A1"><center> <img src="images/mounts/Empty_Birdcage.gif" </center><td width="250px" bgcolor="#D4C0A1"><center> Loot: Zugurosh </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Cerberus_Champion.gif"</td><td width="50px" bgcolor="#D4C0A1"><center> Sala Reward no Final da Inquisition Quest </center></td><td width="50px" bgcolor="#D4C0A1"><center> -- </center></td><td width="50px" bgcolor="#D4C0A1"><center> <img src="images/mounts/Bony_Rod_(Ruby).gif" </center><td width="250px" bgcolor="#D4C0A1"><center> Loot: Hellgorak </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Antelope.gif"</td><td width="50px" bgcolor="#D4C0A1"><center> Cidade de Paw Port </center></td><td width="50px" bgcolor="#D4C0A1"><center> -- </center></td><td width="50px" bgcolor="#D4C0A1"><center> <img src="images/mounts/Incantation_Scroll.gif"</center><td width="250px" bgcolor="#D4C0A1"><center>Loot: Demon, Gravedigger</center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Haze_(Mount).gif"</td><td width="50px" bgcolor="#D4C0A1"><center> -- </center></td><td width="50px" bgcolor="#D4C0A1"><center> -- </center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/The_Spectral_Scrap_of_Cloth.gif"</center><td width="250px" bgcolor="#D4C0A1"><center> Loot: The Dread Maiden (Invasao), <br>Ghosty (Namrah) </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/White_Lion_(Mount).gif"</td><td width="50px" bgcolor="#D4C0A1"><center>Teleports Ventera <Br>(Werelions)</center></td><td width="50px" bgcolor="#D4C0A1"><center>-</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Red_Silk_Flower.gif"</center><td width="250px" bgcolor="#D4C0A1"><center>Loot: Noldor Elfs, Pixies</center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/mask1.gif"</td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/mask2.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/mask3.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Golden_Sickle.gif"</center><td width="250px" bgcolor="#D4C0A1"><center> Loot: Demon, Blightwalker <br> Local: Ritual Quest <br> (Teleports Demons da Cidade Real)</center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Sea_Devil.gif"</td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Plumfish.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Coralripper.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/items/5895.gif"</center><td width="250px" bgcolor="#D4C0A1"><center>Subsolo Templo Ventera <br> no NPC Zay por 25 fish fin cada</center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Cranium_Spider.gif"</td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Cave_Tarantula.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Gloom_Widow.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/items/5879.gif"</center><td width="250px" bgcolor="#D4C0A1"><center>Subsolo Templo Ventera <br> no NPC Zay por 25 spider silk cada</center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Neon_Sparkid.gif"</td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Sparkion_(Mount).gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Vortexion.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Menacing_Egg.gif"</center><td width="250px" bgcolor="#D4C0A1"><center> Loot: The Last Lore Keeper  </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Tombstinger.gif"</td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Jade_Pincer.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Death_Crawler.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Crimson_Nightshade_Blossoms.gif"</center><td width="250px" bgcolor="#D4C0A1"><center> Loot: Asura <br> Local: Asura Palace (Paw Port) </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Snowy_Owl.gif"</td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Tawny_Owl.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Boreal_Owl.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center> <img src="images/mounts/Sceptre_of_Sun_and_Sea.gif" </center><td width="250px" bgcolor="#D4C0A1"><center> Loot: Albus Dumbledore <br> Local: Hogwarts </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Rune_Watcher.webp"</td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Void_Watcher.webp"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Rift_Watcher.webp"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center> <img src="images/mounts/Sceptre_of_Sun_and_Sea.gif" </center><td width="250px" bgcolor="#D4C0A1"><center> Loot: Albus Dumbledore <br> Local: Hogwarts </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/snowstrider2.gif"</td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/snowstrider.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/snowstrider3.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center> <img src="images/mounts/Minotaur_Skull.gif" </center><td width="250px" bgcolor="#D4C0A1"><center> Loot: The Horned Fox (Invasao) <br> Local: Teleports Varkhal (Ventera) </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Prismatic_Unicorn.gif"</td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Arctic_Unicorn.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Blazing_Unicorn.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center> <img src="images/mounts/Phial_of_Fresh_Water.gif" </center><td width="250px" bgcolor="#D4C0A1"><center> Loot: Ghazbaran <br> Local: Cidade Real (Blazing) <br> Storvik (Artic e Prismatic) </center></td></tr>
+
+
+
+
+<center><table cellpadding="10" cellspacing="1"><tr><td width="50px" colspan="5" bgcolor="#555555"><font color="white" size="5"><center><b>Montarias por Quest </b></center></font></td></tr><tr><td width="50px" bgcolor="#F1E0C6"><b>Mount</b></td><td width="50px" bgcolor="#F1E0C6"><center><b> Mount 2</b></td><td width="50px" bgcolor="#F1E0C6"><center><b> Mount 3</b></center></td><td width="50px" bgcolor="#F1E0C6"><center><b> - </b></center></td><td width="250px" bgcolor="#F1E0C6"><center><b>Como domar</b></center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Glooth_Glider.gif"</td><td width="50px" bgcolor="#D4C0A1"><center> - </center></td><td width="50px" bgcolor="#D4C0A1"><center>-</center></td><td width="50px" bgcolor="#D4C0A1"><center> - </center><td width="450px" bgcolor="#D4C0A1"><center>Quest Hogwarts: Hidden Cape</center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Crimson_Ray.gif"</td><td width="50px" bgcolor="#D4C0A1"><center>-</center></td><td width="50px" bgcolor="#D4C0A1"><center>-</center></td><td width="50px" bgcolor="#D4C0A1"><center>-</center><td width="250px" bgcolor="#D4C0A1"><center>Obtida na Gill Gugel Quest</center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Rift_runner.gif"</td><td width="50px" bgcolor="#D4C0A1"><center> - </center></td><td width="50px" bgcolor="#D4C0A1"><center> - </center></td><td width="50px" bgcolor="#D4C0A1"><center> - </center><td width="250px" bgcolor="#D4C0A1"><center> Obtida na Ferumbras Rift Quest </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Phantasmal_Jade.gif"</td><td width="50px" bgcolor="#D4C0A1"><center> <img src="images/mounts/Krakoloss.gif" </center></td><td width="50px" bgcolor="#D4C0A1"><center> - </center></td><td width="50px" bgcolor="#D4C0A1"><center> - </center><td width="250px" bgcolor="#D4C0A1"><center> Obtido na Zona Proibida Quest <img src="./images/crown.png"/></center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Platesaurian.gif"</td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Azudocus.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Carpacosaurus.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center>-</center><td width="250px" bgcolor="#D4C0A1"><center>Obtido os tres na MAV Quest</center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Venompaw.gif"</td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Flitterkatzen.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Batcat.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center>-</center><td width="250px" bgcolor="#D4C0A1"><center>Obtido os tres na Gnome Quest</center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Feral_Tiger.gif"</td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Jungle_Tiger.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Ebony_Tiger.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center> - </center><td width="250px" bgcolor="#D4C0A1"><center> Obtido os tres na Shields Quest </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/demonic2.gif"</td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/demonic3.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/demonic1.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center>-</center><td width="250px" bgcolor="#D4C0A1"><center> Obtido os tres na Umbral Quest </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/winter_king.gif"</td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/jade_lion.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/desert_king.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center>-</center><td width="250px" bgcolor="#D4C0A1"><center> Obtido os tres na Helmet of The Ancients Quest </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Highland_Yak.gif"</td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Glacier_Vagabond.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Tundra_Rambler.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center>-</center><td width="250px" bgcolor="#D4C0A1"><center>Yak: Stage 2 Dragon Scale Legs <br> Tundra: Stage 3 Dragon Scale Legs <br> Glacier: Stage 4 Dragon Scale Legs</center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Copper_Fly.gif"</td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Golden_Dragonfly.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Steel_Bee.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center>-</center><td width="250px" bgcolor="#D4C0A1"><center>Cooper: Missao Dundara (Ventera)<br> Golden: Missao Gaara (Namrah)<br>Silver: Missao Shiryu (Carlin)</center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Magic_Carpet_(Mount).gif"</td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Flying_Divan.gif"</td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Floating_Kashmir.gif"</td></center></td></center></td><td width="50px" bgcolor="#D4C0A1"><center>-</center><td width="250px" bgcolor="#D4C0A1"><center>Carpet: Brave Warriors Missao 3<br> Divan: Trox Missao 6 (Egon)<br> Kashmir: Bellatrix Missao<br> (Premium para usar) <img src="./images/crown.png"/></center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/ape1.gif"</td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/ape2.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/ape3.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center>-</center><td width="250px" bgcolor="#D4C0A1"><center>Gorongra: Tribal Mask Quest <br> Noctungra: 2 Missao Trox Quest <br> Silverneck: Lizards Camp Quest </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Bloodcurl.gif"</td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Mouldpincer.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Leafscuttler.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center> - </center><td width="250px" bgcolor="#D4C0A1"><center> Obtido os tres na Insectoid Quest <br>(Teleports Kollos de Torvena)<br> (Premium para usar) <img src="./images/crown.png"/></center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Night_Waccoon.gif"</td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Emerald_Waccoon.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Ringtail_Waccoon.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center>-</center><td width="250px" bgcolor="#D4C0A1"><center>Hollywood Task 10 (Reward Room)</center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Dreadhare.gif"</td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Jackalope.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Wolpertinger.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center> - </center><td width="250px" bgcolor="#D4C0A1"><center> Obtido os tres na Helmet Quest (Basco)  <img src="./images/crown.png"/></center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Black_Stag.gif"</td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Shadow_Hart.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Emperor_Deer.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center>-</center><td width="250px" bgcolor="#D4C0A1"><center> Obtido os tres na Miniquisition (Basco) <img src="./images/crown.png"/></center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Emerald_Sphinx.gif"</td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Gold_Sphinx.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Shadow_Sphinx.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center> - </center><td width="250px" bgcolor="#D4C0A1"><center> Obtido os tres na Pharaoh Quest (Basco) <img src="./images/crown.png"/></center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Ivory_Fang.gif"</td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Snow_Pelt.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Shadow_Claw.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center> - </center><td width="250px" bgcolor="#D4C0A1"><center> Obtido os tres na Great Shield (Basco) <img src="./images/crown.png"/></center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Siegebreaker.gif"</td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Blackpelt.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Poisonbane.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center>-</center><td width="250px" bgcolor="#D4C0A1"><center> Obtido os tres na Canivete Quest (Basco) <img src="./images/crown.png"/> <br> Teleports Brimstone Bug </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Mould_Shell.gif"</td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Reed_Lurker.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Swamp_Snapper.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center> - </center><td width="250px" bgcolor="#D4C0A1"><center> Obtido os tres na Ranger Quest (Basco) <img src="./images/crown.png"/> <br> Teleports Ithirion Mage </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Marsh_Toad.gif"</td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Toxic_Toad.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Sanguine_Frog.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center> - </center><td width="250px" bgcolor="#D4C0A1"><center> Obtido os tres na Ranger Quest (Basco) <img src="./images/crown.png"/> <br> Teleports Ithirion Mage </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Battle_Badger.gif"</td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Zaoan_Badger.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Ether_Badger.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center> - </center><td width="250px" bgcolor="#D4C0A1"><center> Obtido os tres na Old Wayfarer Cape Quest (Basco) <img src="./images/crown.png"/></center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/River_Crocovile.gif"</td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Swamp_Crocovile.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Nightmarish_Crocovile.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center> - </center><td width="250px" bgcolor="#D4C0A1"><center> Obtido os tres na Starlight Amulet Quest (Basco)  <img src="./images/crown.png"/></center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Jungle_Saurian.gif"</td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Lagoon_Saurian.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Ember_Saurian.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center> - </center><td width="250px" bgcolor="#D4C0A1"><center> Obtido os tres na Draken Quest (Basco)  <img src="./images/crown.png"/></center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Cunning_Hyaena.gif"</td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Voracious_Hyaena.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Scruffy_Hyaena.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center>-</center><td width="250px" bgcolor="#D4C0A1"><center> Obtido os tres na Dwarven Armor Quest </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Savanna_Ostrich.gif"</td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Coral_Rhea.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Eventide_Nandu.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center> - </center><td width="250px" bgcolor="#D4C0A1"><center> Fibula Quest (Paw Port) <br> Necessario ter uma wooden key </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Rabbit_Rickshaw.gif"</td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Bunny_Dray.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Cony_Cart.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center> - </center><td width="250px" bgcolor="#D4C0A1"><center> Percht Quest (Storvik) <br> Necessario ter feito a POI Quest antes </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Caped_Snowman.gif"</td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Muffled_Snowman.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Festive_Snowman.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center> - </center><td width="250px" bgcolor="#D4C0A1"><center> Percht Quest (Storvik) <br> Necessario ter feito a POI Quest antes </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Bright_Percht_Sleigh.gif"</td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Cold_Percht_Sleigh.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Dark_Percht_Sleigh.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center> - </center><td width="250px" bgcolor="#D4C0A1"><center> Percht Quest (Storvik) <br> Necessario ter feito a POI Quest antes </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/152-floating-scholar.gif"</td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/151-floating-sage.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/150-floating-augur.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center> - </center><td width="250px" bgcolor="#D4C0A1"><center> Dark Library Quest (Astier) </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Blue_Rolling_Barrel.gif"</td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Green_Rolling_Barrel.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Red_Rolling_Barrel.gif"</td></center></td><td width="50px" bgcolor="#D4C0A1"><center> - </center><td width="250px" bgcolor="#D4C0A1"><center> Traditionalist Reward (North Pinegarden) <br> Necessario ter uma wooden key </center></td></tr>
+
+
+
+<center><table cellpadding="10" cellspacing="1"><tr><td width="50px" colspan="4" bgcolor="#555555"><font color="white" size="5"><center><b>Montarias Premium</b></center></font></td></tr><tr><td width="100px" bgcolor="#F1E0C6"><b>Mount</b></td><td width="50px" bgcolor="#F1E0C6"><center><b> - </b></center></td><td width="50px" bgcolor="#F1E0C6"><center><b>Adquiridos pela Store </b></center></td></tr>
+
+<tr><td width="250px" bgcolor="#D4C0A1"><img src="images/mounts/Blazebringer.gif"</td><img src="images/mounts/Armoured_War_Horse.gif"</td><img src="images/mounts/Steelbeak.gif"</td><img src="images/mounts/Shadow_Draptor.gif"</td><td width="150px" bgcolor="#D4C0A1"></center><td width="350px" bgcolor="#D4C0A1"><center>Blazebringer/ War Horse/ Steelbeak/ Draptor</center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Nethersteed.gif"</td><img src="images/mounts/Flamesteed.gif"</td><img src="images/mounts/Tempest.gif"</td><td width="100px" bgcolor="#D4C0A1"><center></center><td width="50px" bgcolor="#D4C0A1"><center>Nethersteed/ Flamesteed/ Tempest </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Doombringer.gif"</td><img src="images/mounts/Woodland_Prince.gif"</td><img src="images/mounts/Hailtorm_Fury.gif"</td><td width="100px" bgcolor="#D4C0A1"><center></center><td width="50px" bgcolor="#D4C0A1"><center>Doombringer/ Woodland Prince/ Hailtorm Fury </center></td></tr>
+
+
+
+
+<center><table cellpadding="10" cellspacing="1"><tr><td width="50px" colspan="4" bgcolor="#555555"><font color="white" size="5"><center><b>Montarias Extras</b></center></font></td></tr><tr><td width="50px" bgcolor="#F1E0C6"><b>Mount</b></td><td width="50px" bgcolor="#F1E0C6"><center><b>Onde Fica o Monstro</b></td><td width="50px" bgcolor="#F1E0C6"><center><b>Item para domar</b></center></td><td width="50px" bgcolor="#F1E0C6"><center><b>Onde Pegar o Item</b></center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Kongra.gif"</td><td width="50px" bgcolor="#D4C0A1"><center>Teleports Paw Port <br> (Kongras)</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/swo.gif"</center><td width="50px" bgcolor="#D4C0A1"><center>Loot: Werewolfs, Jacobs</center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Tarantula.gif"</td><td width="250px" bgcolor="#D4C0A1"><center>Espalhadas pela cidade de <br>Paw Port</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/silk.gif"</center><td width="350px" bgcolor="#D4C0A1"><center>Loot: Ape Lords</center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Terramite.gif"</td><td width="250px" bgcolor="#D4C0A1"><center>Teleports Torvena <br>(Tunnel Tyrants)</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/wood.gif"</center><td width="350px" bgcolor="#D4C0A1"><center>Loot: Hunter, Master Hunter</center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Blood_Crab.gif"</td><td width="50px" bgcolor="#D4C0A1"><center>-</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/coal.gif"</center><td width="50px" bgcolor="#D4C0A1"><center>Trocada por itens no NPC Swan<br> Itens: 20 coals (Dwarfs) <br>Localizacao: Hydras de Basco <img src="./images/crown.png"/><br> </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Crystal_Spider.gif"</td><td width="50px" bgcolor="#D4C0A1"><center>Inquisition &<br> Cidade de Storvik </center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/vase.gif"</center><td width="50px" bgcolor="#D4C0A1"><center>Loot: Mytical</center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Young_Sea_Serpent.gif"</td><td width="50px" bgcolor="#D4C0A1"><center>Quest para iniciantes<br> (Sala dos Druids)</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/ser.gif"</center><td width="50px" bgcolor="#D4C0A1"><center>Loot: Askarak Demons</center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Mutated_Rat.gif"</td><td width="50px" bgcolor="#D4C0A1"><center>-</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Mutated_Rat_Tail.gif"</center><td width="50px" bgcolor="#D4C0A1"><center>Trocada por itens no NPC Talaru<br> Itens: 50 mutated rat tails <br>Localizacao: Norgor </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Thornfire_Wolf.gif"</td><td width="50px" bgcolor="#D4C0A1"><center>-</center></td><td width="50px" bgcolor="#D4C0A1"><center>-</center><td width="50px" bgcolor="#D4C0A1"><center>Quest: Obtida na 7 missao Trox Quest</center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Nightmare.gif"</td><td width="50px" bgcolor="#D4C0A1"><center>-</center></td><td width="50px" bgcolor="#D4C0A1"><center>-</center><td width="50px" bgcolor="#D4C0A1"><center>Quest: Quest 10 missao Trox Quest</center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/clomp.gif"</td><td width="50px" bgcolor="#D4C0A1"><center>Teleports Carlin <br> (Stone Rhinos) </center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Shrunken_Head_Necklace.gif"</center><td width="50px" bgcolor="#D4C0A1"><center> Loot: The Welter <br> (Namrah proximo ao NPC Lenado) </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Silencer.gif"</td><td width="50px" bgcolor="#D4C0A1"><center>Telports Ventera <br>(Silencers)</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/One_Hit_Wonder.gif"</center><td width="50px" bgcolor="#D4C0A1"><center> Loot: Moohtant </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Blood_beast.gif"</td><td width="50px" bgcolor="#D4C0A1"><center>Teleports Carlin <br>(Bog Raider)</center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Glooth_Farina.gif"</center><td width="50px" bgcolor="#D4C0A1"><center> Loot: Glooth Golem </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Cow.gif"</td><td width="50px" bgcolor="#D4C0A1"><center> Sudoeste da Cidade de Basco <img src="./images/crown.png"/><br> </center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/bell.gif"</center><td width="50px" bgcolor="#D4C0A1"><center> Loot: Crazed Beggar </center></td></tr>
+
+<tr><td width="50px" bgcolor="#D4C0A1"><img src="images/mounts/Arachnophobica.gif"</td><td width="50px" bgcolor="#D4C0A1"><center> Winter Castle (Storvik) </center></td><td width="50px" bgcolor="#D4C0A1"><center><img src="images/mounts/Tarantula_Trap.gif"</center><td width="50px" bgcolor="#D4C0A1"><center> Loot: Spider Sorcerer </center></td></tr>
+
+
+
+</table>'
+?>
